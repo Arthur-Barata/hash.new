@@ -1,0 +1,64 @@
+body{
+    margin:none;
+}
+
+html{
+    font-size: 10px;
+}
+#container{
+    font-size: 10px;
+    margin:auto;
+    width: 31rem;
+    height:31rem;
+    background-color: black;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    
+    transform:translate(-50%,-50%)
+    
+}
+.square{
+    width: 10rem ;
+    height:10rem;
+    background-color:white;
+    display:inline-block;
+    background-image: ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+.um{
+    margin-right: 0.5rem;
+    
+}
+.dois{
+    margin-right: 0.5rem;
+    
+}
+.tres{
+    
+}
+.quatro{
+    margin-right: 0.5rem;
+}
+.cinco{
+    margin-right: 0.5rem;
+}
+.seis{
+    
+
+}
+.sete{
+    margin-right: 0.5rem;
+}
+.oito{
+    margin-right: 0.5rem;
+}
+
+.a{
+    margin-bottom: 0.5rem;
+}
+.b{
+    margin-bottom: 0.5rem;
+}
